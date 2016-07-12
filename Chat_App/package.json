@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/dtolhuijs/Chat_App/issues"
   },
-  "homepage": "https://github.com/dtolhuijs/Chat_App#readme"
+  "homepage": "https://github.com/dtolhuijs/Chat_App#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "feathers": "^2.0.1",
+    "feathers-errors": "^2.3.0",
+    "feathers-mongoose": "^3.5.0",
+    "feathers-rest": "^1.4.2",
+    "feathers-socketio": "^1.4.1",
+    "mongoose": "^4.5.4"
+  }
 }
